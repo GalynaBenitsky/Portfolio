@@ -94,7 +94,7 @@ function Projects() {
           </div>
         </div>
         <button className="button">
-          <a className="btn-lg" href="https://github.com/GalynaM" role="button">
+          <a className="btn-lg" href="https://github.com/GalynaBenitsky" role="button">
             See more projects in GitHub{" "}
             <i className="devicon-github-plain colored"></i>
           </a>
