@@ -19,7 +19,7 @@ function Contact() {
             </li>
 
             <li>
-              <a className="github" href="https://github.com/GalynaM">
+              <a className="github" href="https://github.com/GalynaBenitsky">
                 <i className="devicon-github-plain colored"></i>
               </a>
             </li>
@@ -27,7 +27,7 @@ function Contact() {
             <li>
               <a
                 className="linkedin"
-                href="https://www.linkedin.com/in/galyna-matsygin-a64942a5/"
+                href="https://www.linkedin.com/in/galyna-benitsky-a64942a5/"
               >
                 <i className="devicon-linkedin-plain colored"></i>
               </a>
